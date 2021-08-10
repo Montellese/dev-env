@@ -52,4 +52,4 @@
 #      tikz_uml: on
 #      nodejs_version: 17
 #  - role: okular
-  - role: yocto
+#  - role: yocto
