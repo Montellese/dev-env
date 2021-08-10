@@ -10,7 +10,7 @@
   roles:
   - role: ssh
     vars:
-      ssh_pub_files: ['ssh_key_clang_home.opub']
+      ssh_pub_files: ['montellese_xbmc_org_rsa.pub']
 
   - role: swapfile
     vars:
