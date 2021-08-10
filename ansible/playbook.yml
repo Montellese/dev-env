@@ -40,16 +40,16 @@
       git_user_email: "sascha.montellese@gmail.com"
 
   - role: docker
-  - role: ansible-role-docmake
-    vars:
-      pandoc: on
-      texlive_min: on
-      texlive_additional: on
-      markdownlint: on
-      drawio: on
-      gpp: on
-      metropolis: on
-      tikz_uml: on
-      nodejs_version: 17
+#  - role: ansible-role-docmake
+#    vars:
+#      pandoc: on
+#      texlive_min: on
+#      texlive_additional: on
+#      markdownlint: on
+#      drawio: on
+#      gpp: on
+#      metropolis: on
+#      tikz_uml: on
+#      nodejs_version: 17
   - role: okular
   - role: yocto
