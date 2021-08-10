@@ -36,8 +36,8 @@
       git_docxtotext: on
       git_pdftotext: on
       git_xlsxtotext: on
-      git_user_name: "Christian Lang"
-      git_user_email: "lang.chr86@gmail.com"
+      git_user_name: "Sascha Montellese"
+      git_user_email: "sascha.montellese@gmail.com"
 
   - role: docker
   - role: ansible-role-docmake
